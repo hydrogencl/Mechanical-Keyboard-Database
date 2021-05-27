@@ -58,7 +58,7 @@ A Mechanical Keyboard Database
 | --------------- | ---------- | ---- | ---- | ---- | --------- | ------- | -------- | -------------------------------------------------------------------------------------- |
 | Flesports/腹灵  | FL980      | ?    | No   |      | RGB       | All     | BT&2.4G  | [Here](http://www.keyboard-layout-editor.com/#/gists/8d3fc231a29b0fc8240d4c4553998f25) |
 | Royal Kludge    | RK100(860) | ?    | No   |      | White     | All     | BT&2.4G  | [Here](http://www.keyboard-layout-editor.com/#/gists/708d3282ca2169d08408cd1c718991c4) |
-|                 |            |      |      |      |           |         |          |                                                                                        |
+| Keychron        | K4V2       | ?    | No   |      | RGB/White | Yes/No  | BT5.1    |                                                                                        |
 |                 |            |      |      |      |           |         |          |                                                                                        |
 |                 |            |      |      |      |           |         |          |                                                                                        |
 |                 |            |      |      |      |           |         |          |                                                                                        |
